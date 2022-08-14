@@ -1,0 +1,2 @@
+Hello world This is my first github repo 
+and i am looking forward to become a good developer.
