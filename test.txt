@@ -1,0 +1,3 @@
+just checking the commit option 
+how git commit -m " " differs from the commit made 
+using vs code editor by typing git commit
