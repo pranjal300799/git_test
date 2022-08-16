@@ -1,3 +1,5 @@
 just checking the commit option 
 how git commit -m " " differs from the commit made 
 using vs code editor by typing git commit
+just revising the command line commands for staging a file ,then 
+commiting it and finally pushing it
